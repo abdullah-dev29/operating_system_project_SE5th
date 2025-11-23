@@ -5,7 +5,7 @@ We (Abdullah, Mutahar, and Ameer) developed a simple and interactive **Deadlock 
 
 The purpose of this project is to make hard OS concepts easier by showing them visually through a GUI.
 
-## 📌 **What This Project Does (Simple Explanation)**
+## **What This Project Does (Simple Explanation)**
 
 This simulator allows you to:
 
@@ -23,7 +23,7 @@ This simulator allows you to:
 Everything is visual so OS concepts are easy to understand.
 
 
-## 👨🏻‍💻 **Who Made This Project**
+## **Who Made This Project**
 
 * **Abdullah – 62724**
 * **Muhammad Mutahar – 63513**
